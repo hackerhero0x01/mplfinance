@@ -15,7 +15,7 @@ pip install --upgrade mplfinance
 #### <a name="announcements"></a> &roarr; **[Older Release Information](https://github.com/matplotlib/mplfinance/blob/master/RELEASE_NOTES.md)**
 ---
 
-## <a name="tutorials"></a>Contents and Tutorials
+## <a name="tutorials"></a>Contents and Tutorialssssss
 
   - **[The New API](https://github.com/matplotlib/mplfinance#newapi)**
   - **[Tutorials](https://github.com/matplotlib/mplfinance#tutorials)**
